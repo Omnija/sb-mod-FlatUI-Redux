@@ -14,10 +14,10 @@ Move the FlatUI-Redux.pak or folder into your Starbound/mods/ folder.
 You need an FlatUI
 
 ### Compatibility
-Wardrobe
-Elunite Race
-Green's Dye Suite
-Frackin Universe
+- Wardrobe
+- Elunite Race
+- Green's Dye Suite
+- Frackin Universe
 
 ### Modders
 Author: Omnija
