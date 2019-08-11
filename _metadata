@@ -1,0 +1,12 @@
+{
+  "author" : "Omnija & Sotaeko",
+  "description" : "FlatUI Redux gives support for the unsupported",
+  "friendlyName" : "FlatUI - Redux",
+  "includes" : ["flatUI"],
+  "link" : "",
+  "name" : "FlatUI - Redux",
+  "steamContentId" : "",
+  "tags" : "User Interface",
+  "version" : "1.0.0",
+  "priority" : 99
+}
