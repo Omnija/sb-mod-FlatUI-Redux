@@ -1,6 +1,6 @@
 # FlatUI - Redux
 
-![FlatUI - Redux](https://community.playstarbound.com/attachments/flatui-redux-png.215324/)
+![FlatUI - Redux](https://community.playstarbound.com/attachments/flatui-redux-png.215325/)
 
 ### Description: 
 FlatUI - Redux add-on gives support for the unsupported mods
