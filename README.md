@@ -1,6 +1,6 @@
 # FlatUI - Redux
 
-![FlatUI - Redux](/docs/sample.png)
+![FlatUI - Redux](/docs/preview.png)
 
 ### Description: 
 FlatUI - Redux add-on gives support for the unsupported mods
