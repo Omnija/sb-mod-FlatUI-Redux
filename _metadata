@@ -2,11 +2,10 @@
   "author" : "Omnija & Sotaeko",
   "description" : "FlatUI Redux gives support for the unsupported",
   "friendlyName" : "FlatUI - Redux",
-  "includes" : ["flatUI"],
+  "includes" : ["flat UI", "RPG_Growth", "FrackinUniverse", "Elunite", "QuickbarMini", "Green's Dye Suite"],
   "link" : "",
   "name" : "FlatUI - Redux",
   "steamContentId" : "",
   "tags" : "User Interface",
-  "version" : "1.0.0",
-  "priority" : 99
+  "version" : "1.0.0"
 }
